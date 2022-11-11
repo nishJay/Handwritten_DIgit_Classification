@@ -33,3 +33,5 @@ In order to estimate the performance of the model on the problem, we use k-fold 
 
 We use the KFold class from the scikit-learn API to implement the k-fold cross-validation evaluation of the neural network model.
 
+Actual test dataset is used later as an evaluation of our final model.
+
