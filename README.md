@@ -1,4 +1,4 @@
-# Handwritten_DIgit_Classification
+# Handwritten_Digit_Classification
 Image Processing With Python Project
 
 ## Problem definition:
